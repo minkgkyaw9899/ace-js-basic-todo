@@ -1,0 +1,17 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Learn js"
+    },
+    {
+      "id": 23812,
+      "value": "Learn Ts"
+    },
+    {
+      "id": 65478,
+      "value": "Lear React"
+    }
+  ],
+  "posts": []
+}
